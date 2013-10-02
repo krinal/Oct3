@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2BCE6C2-6348-4020-A6E8-315BC9D21B59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Oct3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8579141D-17AA-497B-B980-2719D6BF17F4</key>
+		<string>https://github.com/krinal/Oct3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Oct3.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8579141D-17AA-497B-B980-2719D6BF17F4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/krinal/Oct3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8579141D-17AA-497B-B980-2719D6BF17F4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8579141D-17AA-497B-B980-2719D6BF17F4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Oct3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
